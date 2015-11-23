@@ -183,7 +183,7 @@ https://classroom.github.com/assignment-invitations/9bbf8abe950cd0ba45b601b6122d
 
 ## Sample Solution:
 
-https://github.com/DeLaSalleUniversity-Manila/SkinDetector
+https://github.com/DeLaSalleUniversity-Manila/Denoising
 
 ## Submission Procedure with Git: 
 
